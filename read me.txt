@@ -1,0 +1,6 @@
+1. 新浪微博的热门话题分析程序见src中，其中“hottopic.py” 是爬取新浪微博热门话题的程序
+2. 相关分析中间结果及数据见data中
+3. Mapreduce 分析程序在文件夹“Mapreduce”中，数据结果见189上的hadoop，bigweibo上
+4. 1.py 抽取某段时间内的所有微博数据
+5. 1-1-filter-keyword.py 筛选包含关键字的微博和不含的，分别存储
+6. 1-5-re-filter-keywords.py 扩展后所有相关不相关词汇存储
